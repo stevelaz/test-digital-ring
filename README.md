@@ -1,2 +1,3 @@
 # test-digital-ring
 test repo to teach github
+This is just a test...
