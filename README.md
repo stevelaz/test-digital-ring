@@ -1,4 +1,4 @@
 # test-digital-ring
-test repo to teach github
+a repo to teach github
 
 
